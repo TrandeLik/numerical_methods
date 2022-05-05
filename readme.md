@@ -1,0 +1,30 @@
+# Implementation of some simple numerical methods
+- Linear algebra
+    - Matrix and vector implementation
+      - All interface and arithmetics
+      - .T() - returns transposed copy of matrix
+      - .transpose() - inplace transposition
+      - .det() - returns determinant
+      - .inv() - returns inverse matrix
+      - .trace() - returns trace
+      - .rank() - returns rank
+    - Gauss method for systems of linear equations
+    - Upper relaxation method
+    - Method of the steepest descent
+    - Minimal residual method
+    - LU decomposition
+    - QR decomposition
+    - The greatest eigen value and eigen vector finding
+    - All eigen values and eigen vectors finding for normal matrix
+    - Conditional number of matrix
+    - SVD
+- Differential equations
+    - Runge-Kutta methods
+    - Simple finite difference method for boundary value problem
+- Root-finding
+    - Newton's method
+    - Secant method
+- Integration methods
+  - Simpson's rule
+  - One dimensional Monte-Carlo method with uniform distribution
+  - Multidimensional Monte-Carlo method with uniform distribution
