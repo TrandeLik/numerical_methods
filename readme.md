@@ -16,7 +16,7 @@
     - QR decomposition
     - The greatest eigen value and eigen vector finding
     - All eigen values and eigen vectors finding for normal matrix
-    - Conditional number of matrix
+    - Condition number of matrix
     - SVD
 - Differential equations
     - Runge-Kutta methods

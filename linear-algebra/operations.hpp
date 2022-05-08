@@ -79,7 +79,7 @@ namespace linear_algebra {
     }
 
     template <typename Field>
-    Field conditional_number(const Matrix<Field>& A) {
+    Field condition_number(const Matrix<Field>& A) {
         return singular_norm(A) * singular_norm(A.inv());
     }
 
